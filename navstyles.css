@@ -1,0 +1,24 @@
+nav{
+  
+   background-color: grey;
+  
+}
+
+nav a{
+    display: inline-block;
+    margin: 5px 10px;
+    list-style: none;
+    text-decoration: none;
+}
+
+a:hover{
+  
+  background-color: green;
+ 
+  
+}
+
+a:active{
+  padding: 0px 10px;
+  
+}
